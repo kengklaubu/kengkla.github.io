@@ -2,7 +2,7 @@
 
 This is my personal portfolio website, built with **HTML + CSS** and deployed via **GitHub Pages**.
 
-🌐 Live site: [(https://kengklaubu.github.io/kengkla.github.io/)](https://kengklaubu.github.io/kengkla.github.io/)
+🌐 Live site: [[(https://kengklaubu.github.io/kengkla.github.io/)](https://kengklaubu.github.io/kengkla.github.io/)](https://kengklaubu.github.io/)
 
 ---
 
